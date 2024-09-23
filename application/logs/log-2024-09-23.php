@@ -6581,3 +6581,446 @@ INFO - 2024-09-23 07:31:26 --> Model "Web_settings" initialized
 INFO - 2024-09-23 07:31:26 --> Model "Hrm_model" initialized
 INFO - 2024-09-23 07:31:26 --> Final output sent to browser
 DEBUG - 2024-09-23 07:31:26 --> Total execution time: 0.0406
+ERROR - 2024-09-23 08:25:47 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:47 --> Config Class Initialized
+INFO - 2024-09-23 08:25:47 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:47 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:47 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:47 --> URI Class Initialized
+DEBUG - 2024-09-23 08:25:47 --> No URI present. Default controller set.
+INFO - 2024-09-23 08:25:47 --> Router Class Initialized
+INFO - 2024-09-23 08:25:47 --> Output Class Initialized
+INFO - 2024-09-23 08:25:47 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:47 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:47 --> Input Class Initialized
+INFO - 2024-09-23 08:25:47 --> Language Class Initialized
+INFO - 2024-09-23 08:25:47 --> Loader Class Initialized
+INFO - 2024-09-23 08:25:47 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:25:47 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:25:47 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:25:47 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:25:47 --> Database Driver Class Initialized
+INFO - 2024-09-23 08:25:47 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:25:47 --> Parser Class Initialized
+INFO - 2024-09-23 08:25:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:25:47 --> Pagination Class Initialized
+INFO - 2024-09-23 08:25:47 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:25:47 --> Controller Class Initialized
+INFO - 2024-09-23 08:25:47 --> Model "Web_settings" initialized
+INFO - 2024-09-23 08:25:47 --> Model "reports" initialized
+ERROR - 2024-09-23 08:25:47 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:47 --> Config Class Initialized
+INFO - 2024-09-23 08:25:47 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:47 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:47 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:47 --> URI Class Initialized
+INFO - 2024-09-23 08:25:47 --> Router Class Initialized
+INFO - 2024-09-23 08:25:47 --> Output Class Initialized
+INFO - 2024-09-23 08:25:47 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:47 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:47 --> Input Class Initialized
+INFO - 2024-09-23 08:25:47 --> Language Class Initialized
+INFO - 2024-09-23 08:25:47 --> Loader Class Initialized
+INFO - 2024-09-23 08:25:47 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:25:47 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:25:47 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:25:47 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:25:47 --> Database Driver Class Initialized
+INFO - 2024-09-23 08:25:47 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:25:47 --> Parser Class Initialized
+INFO - 2024-09-23 08:25:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:25:47 --> Pagination Class Initialized
+INFO - 2024-09-23 08:25:47 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:25:47 --> Controller Class Initialized
+INFO - 2024-09-23 08:25:47 --> Model "Web_settings" initialized
+INFO - 2024-09-23 08:25:47 --> Model "reports" initialized
+INFO - 2024-09-23 08:25:47 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\user/admin_login_form.php
+DEBUG - 2024-09-23 08:25:47 --> Parser class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:25:47 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/top_menu.php
+INFO - 2024-09-23 08:25:47 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_loggedin_info.php
+INFO - 2024-09-23 08:25:47 --> Model "Products" initialized
+INFO - 2024-09-23 08:25:47 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\admin_html_template.php
+INFO - 2024-09-23 08:25:47 --> Final output sent to browser
+DEBUG - 2024-09-23 08:25:47 --> Total execution time: 0.0877
+ERROR - 2024-09-23 08:25:47 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:47 --> Config Class Initialized
+INFO - 2024-09-23 08:25:47 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:47 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:47 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:47 --> URI Class Initialized
+INFO - 2024-09-23 08:25:47 --> Router Class Initialized
+INFO - 2024-09-23 08:25:47 --> Output Class Initialized
+INFO - 2024-09-23 08:25:47 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:47 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:47 --> Input Class Initialized
+INFO - 2024-09-23 08:25:47 --> Language Class Initialized
+ERROR - 2024-09-23 08:25:47 --> 404 Page Not Found: Assets/css
+ERROR - 2024-09-23 08:25:48 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:48 --> Config Class Initialized
+INFO - 2024-09-23 08:25:48 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:48 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:48 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:48 --> URI Class Initialized
+INFO - 2024-09-23 08:25:48 --> Router Class Initialized
+INFO - 2024-09-23 08:25:48 --> Output Class Initialized
+INFO - 2024-09-23 08:25:48 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:48 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:48 --> Input Class Initialized
+INFO - 2024-09-23 08:25:48 --> Language Class Initialized
+ERROR - 2024-09-23 08:25:48 --> 404 Page Not Found: Assets/datatables
+ERROR - 2024-09-23 08:25:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:51 --> Config Class Initialized
+INFO - 2024-09-23 08:25:51 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:51 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:51 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:51 --> URI Class Initialized
+INFO - 2024-09-23 08:25:51 --> Router Class Initialized
+INFO - 2024-09-23 08:25:51 --> Output Class Initialized
+INFO - 2024-09-23 08:25:51 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:51 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:51 --> CSRF token verified
+INFO - 2024-09-23 08:25:51 --> Input Class Initialized
+INFO - 2024-09-23 08:25:51 --> Language Class Initialized
+INFO - 2024-09-23 08:25:51 --> Loader Class Initialized
+INFO - 2024-09-23 08:25:51 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:25:51 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:25:51 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:25:51 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:25:51 --> Database Driver Class Initialized
+INFO - 2024-09-23 08:25:51 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:25:51 --> Parser Class Initialized
+INFO - 2024-09-23 08:25:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:25:51 --> Pagination Class Initialized
+INFO - 2024-09-23 08:25:51 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:25:51 --> Controller Class Initialized
+INFO - 2024-09-23 08:25:51 --> Model "Web_settings" initialized
+INFO - 2024-09-23 08:25:51 --> Model "reports" initialized
+DEBUG - 2024-09-23 08:25:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:25:52 --> Email Class Initialized
+ERROR - 2024-09-23 08:25:54 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() D:\wamp\www\lan_new\lancaster_new\system\libraries\Email.php 1902
+INFO - 2024-09-23 08:25:54 --> Language file loaded: language/english/email_lang.php
+ERROR - 2024-09-23 08:25:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:54 --> Config Class Initialized
+INFO - 2024-09-23 08:25:54 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:54 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:54 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:54 --> URI Class Initialized
+INFO - 2024-09-23 08:25:54 --> Router Class Initialized
+INFO - 2024-09-23 08:25:54 --> Output Class Initialized
+INFO - 2024-09-23 08:25:54 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:54 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:54 --> Input Class Initialized
+INFO - 2024-09-23 08:25:54 --> Language Class Initialized
+INFO - 2024-09-23 08:25:54 --> Loader Class Initialized
+INFO - 2024-09-23 08:25:54 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:25:54 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:25:54 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:25:54 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:25:54 --> Database Driver Class Initialized
+INFO - 2024-09-23 08:25:54 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:25:54 --> Parser Class Initialized
+INFO - 2024-09-23 08:25:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:25:54 --> Pagination Class Initialized
+INFO - 2024-09-23 08:25:54 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:25:54 --> Controller Class Initialized
+INFO - 2024-09-23 08:25:54 --> Model "Web_settings" initialized
+INFO - 2024-09-23 08:25:54 --> Model "reports" initialized
+ERROR - 2024-09-23 08:25:54 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\lan_new\lancaster_new\application\controllers\Admin_dashboard.php 1412
+ERROR - 2024-09-23 08:25:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\lan_new\lancaster_new\application\controllers\Admin_dashboard.php 1412
+ERROR - 2024-09-23 08:25:54 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\lan_new\lancaster_new\application\controllers\Admin_dashboard.php 1412
+ERROR - 2024-09-23 08:25:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\lan_new\lancaster_new\application\controllers\Admin_dashboard.php 1412
+INFO - 2024-09-23 08:25:54 --> Model "Users" initialized
+ERROR - 2024-09-23 08:25:54 --> Severity: Notice --> Undefined index: first_name D:\wamp\www\lan_new\lancaster_new\application\libraries\Auth.php 52
+ERROR - 2024-09-23 08:25:54 --> Severity: Notice --> Undefined index: last_name D:\wamp\www\lan_new\lancaster_new\application\libraries\Auth.php 52
+INFO - 2024-09-23 08:25:54 --> Final output sent to browser
+DEBUG - 2024-09-23 08:25:54 --> Total execution time: 0.0384
+ERROR - 2024-09-23 08:25:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:54 --> Config Class Initialized
+INFO - 2024-09-23 08:25:54 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:54 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:54 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:54 --> URI Class Initialized
+DEBUG - 2024-09-23 08:25:54 --> No URI present. Default controller set.
+INFO - 2024-09-23 08:25:54 --> Router Class Initialized
+INFO - 2024-09-23 08:25:54 --> Output Class Initialized
+INFO - 2024-09-23 08:25:54 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:54 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:54 --> Input Class Initialized
+INFO - 2024-09-23 08:25:54 --> Language Class Initialized
+INFO - 2024-09-23 08:25:54 --> Loader Class Initialized
+INFO - 2024-09-23 08:25:54 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:25:54 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:25:54 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:25:54 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:25:54 --> Database Driver Class Initialized
+INFO - 2024-09-23 08:25:54 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:25:54 --> Parser Class Initialized
+INFO - 2024-09-23 08:25:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:25:54 --> Pagination Class Initialized
+INFO - 2024-09-23 08:25:54 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:25:54 --> Controller Class Initialized
+INFO - 2024-09-23 08:25:54 --> Model "Web_settings" initialized
+INFO - 2024-09-23 08:25:54 --> Model "reports" initialized
+INFO - 2024-09-23 08:25:54 --> Model "Customers" initialized
+INFO - 2024-09-23 08:25:54 --> Model "Products" initialized
+INFO - 2024-09-23 08:25:54 --> Model "Suppliers" initialized
+DEBUG - 2024-09-23 08:25:54 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2024-09-23 08:25:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:25:54 --> Model "Invoices" initialized
+INFO - 2024-09-23 08:25:54 --> Model "Purchases" initialized
+INFO - 2024-09-23 08:25:54 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_home.php
+DEBUG - 2024-09-23 08:25:54 --> Parser class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:25:54 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/top_menu.php
+INFO - 2024-09-23 08:25:54 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_loggedin_info.php
+INFO - 2024-09-23 12:25:54 --> Model "Users" initialized
+INFO - 2024-09-23 12:25:54 --> Model "Hrm_model" initialized
+INFO - 2024-09-23 12:25:55 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_header.php
+INFO - 2024-09-23 12:25:55 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_footer.php
+INFO - 2024-09-23 12:25:55 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\admin_html_template.php
+INFO - 2024-09-23 12:25:55 --> Final output sent to browser
+DEBUG - 2024-09-23 12:25:55 --> Total execution time: 1.2860
+ERROR - 2024-09-23 08:25:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:55 --> Config Class Initialized
+INFO - 2024-09-23 08:25:55 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:55 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:55 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:55 --> URI Class Initialized
+INFO - 2024-09-23 08:25:55 --> Router Class Initialized
+INFO - 2024-09-23 08:25:55 --> Output Class Initialized
+INFO - 2024-09-23 08:25:55 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:55 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:55 --> Input Class Initialized
+INFO - 2024-09-23 08:25:55 --> Language Class Initialized
+ERROR - 2024-09-23 08:25:55 --> 404 Page Not Found: Assets/css
+ERROR - 2024-09-23 08:25:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:56 --> Config Class Initialized
+INFO - 2024-09-23 08:25:56 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:56 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:56 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:56 --> URI Class Initialized
+INFO - 2024-09-23 08:25:56 --> Router Class Initialized
+INFO - 2024-09-23 08:25:56 --> Output Class Initialized
+INFO - 2024-09-23 08:25:56 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:56 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:56 --> Input Class Initialized
+INFO - 2024-09-23 08:25:56 --> Language Class Initialized
+ERROR - 2024-09-23 08:25:56 --> 404 Page Not Found: Assets/js
+ERROR - 2024-09-23 08:25:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:56 --> Config Class Initialized
+INFO - 2024-09-23 08:25:56 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:56 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:56 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:56 --> URI Class Initialized
+INFO - 2024-09-23 08:25:56 --> Router Class Initialized
+INFO - 2024-09-23 08:25:56 --> Output Class Initialized
+INFO - 2024-09-23 08:25:56 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:56 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:56 --> Input Class Initialized
+INFO - 2024-09-23 08:25:56 --> Language Class Initialized
+ERROR - 2024-09-23 08:25:56 --> 404 Page Not Found: Assets/datatables
+ERROR - 2024-09-23 08:25:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+ERROR - 2024-09-23 08:25:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:25:56 --> Config Class Initialized
+INFO - 2024-09-23 08:25:56 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:25:56 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:56 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:56 --> Config Class Initialized
+INFO - 2024-09-23 08:25:56 --> URI Class Initialized
+INFO - 2024-09-23 08:25:56 --> Hooks Class Initialized
+INFO - 2024-09-23 08:25:56 --> Router Class Initialized
+DEBUG - 2024-09-23 08:25:56 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:25:56 --> Output Class Initialized
+INFO - 2024-09-23 08:25:56 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:25:56 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:56 --> URI Class Initialized
+INFO - 2024-09-23 08:25:56 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:56 --> Input Class Initialized
+INFO - 2024-09-23 08:25:56 --> Language Class Initialized
+INFO - 2024-09-23 08:25:56 --> Router Class Initialized
+INFO - 2024-09-23 08:25:56 --> Output Class Initialized
+INFO - 2024-09-23 08:25:56 --> Security Class Initialized
+DEBUG - 2024-09-23 08:25:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:25:56 --> CSRF cookie sent
+INFO - 2024-09-23 08:25:56 --> Input Class Initialized
+INFO - 2024-09-23 08:25:56 --> Language Class Initialized
+INFO - 2024-09-23 08:25:56 --> Loader Class Initialized
+INFO - 2024-09-23 08:25:56 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:25:56 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:25:56 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:25:56 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:25:56 --> Database Driver Class Initialized
+INFO - 2024-09-23 08:25:56 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:25:56 --> Parser Class Initialized
+INFO - 2024-09-23 08:25:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:25:56 --> Pagination Class Initialized
+INFO - 2024-09-23 08:25:56 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:25:56 --> Controller Class Initialized
+INFO - 2024-09-23 08:25:56 --> Model "Web_settings" initialized
+INFO - 2024-09-23 08:25:56 --> Model "reports" initialized
+INFO - 2024-09-23 08:25:56 --> Loader Class Initialized
+INFO - 2024-09-23 08:25:56 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:25:56 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:25:56 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:25:56 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:25:56 --> Database Driver Class Initialized
+INFO - 2024-09-23 08:25:56 --> Final output sent to browser
+DEBUG - 2024-09-23 08:25:56 --> Total execution time: 0.0172
+INFO - 2024-09-23 08:25:56 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:25:56 --> Parser Class Initialized
+INFO - 2024-09-23 08:25:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:25:56 --> Pagination Class Initialized
+INFO - 2024-09-23 08:25:56 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:25:56 --> Controller Class Initialized
+INFO - 2024-09-23 08:25:56 --> Model "Web_settings" initialized
+DEBUG - 2024-09-23 08:25:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:25:56 --> Final output sent to browser
+DEBUG - 2024-09-23 08:25:56 --> Total execution time: 0.0407
+ERROR - 2024-09-23 08:26:00 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:26:00 --> Config Class Initialized
+INFO - 2024-09-23 08:26:00 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:26:00 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:26:00 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:26:00 --> URI Class Initialized
+INFO - 2024-09-23 08:26:00 --> Router Class Initialized
+INFO - 2024-09-23 08:26:00 --> Output Class Initialized
+INFO - 2024-09-23 08:26:00 --> Security Class Initialized
+DEBUG - 2024-09-23 08:26:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:26:00 --> CSRF cookie sent
+INFO - 2024-09-23 08:26:00 --> Input Class Initialized
+INFO - 2024-09-23 08:26:00 --> Language Class Initialized
+INFO - 2024-09-23 08:26:00 --> Loader Class Initialized
+INFO - 2024-09-23 08:26:00 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:26:00 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:26:00 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:26:00 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:26:00 --> Database Driver Class Initialized
+INFO - 2024-09-23 08:26:00 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:26:00 --> Parser Class Initialized
+INFO - 2024-09-23 08:26:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:26:00 --> Pagination Class Initialized
+INFO - 2024-09-23 08:26:00 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:26:00 --> Controller Class Initialized
+DEBUG - 2024-09-23 08:26:00 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2024-09-23 08:26:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:26:00 --> Model "Web_settings" initialized
+INFO - 2024-09-23 08:26:00 --> Model "Hrm_model" initialized
+INFO - 2024-09-23 08:26:00 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\hr/employee_list.php
+DEBUG - 2024-09-23 08:26:00 --> Parser class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:26:00 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/top_menu.php
+INFO - 2024-09-23 08:26:00 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_loggedin_info.php
+INFO - 2024-09-23 08:26:00 --> Model "Products" initialized
+INFO - 2024-09-23 12:26:00 --> Model "reports" initialized
+INFO - 2024-09-23 12:26:00 --> Model "Users" initialized
+ERROR - 2024-09-23 08:26:00 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:26:00 --> Config Class Initialized
+INFO - 2024-09-23 08:26:00 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:26:00 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:26:00 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:26:00 --> URI Class Initialized
+INFO - 2024-09-23 08:26:00 --> Router Class Initialized
+INFO - 2024-09-23 08:26:00 --> Output Class Initialized
+INFO - 2024-09-23 08:26:00 --> Security Class Initialized
+DEBUG - 2024-09-23 08:26:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:26:00 --> CSRF cookie sent
+INFO - 2024-09-23 08:26:00 --> Input Class Initialized
+INFO - 2024-09-23 08:26:00 --> Language Class Initialized
+INFO - 2024-09-23 08:26:00 --> Loader Class Initialized
+INFO - 2024-09-23 08:26:00 --> Helper loaded: url_helper
+INFO - 2024-09-23 08:26:00 --> Helper loaded: file_helper
+INFO - 2024-09-23 08:26:00 --> Helper loaded: form_helper
+INFO - 2024-09-23 08:26:00 --> Helper loaded: lang_helper
+INFO - 2024-09-23 08:26:00 --> Database Driver Class Initialized
+INFO - 2024-09-23 12:26:01 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_header.php
+INFO - 2024-09-23 12:26:01 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_footer.php
+INFO - 2024-09-23 12:26:01 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\admin_html_template.php
+INFO - 2024-09-23 12:26:01 --> Final output sent to browser
+DEBUG - 2024-09-23 12:26:01 --> Total execution time: 1.5072
+INFO - 2024-09-23 08:26:01 --> Session: Class initialized using 'files' driver.
+INFO - 2024-09-23 08:26:01 --> Parser Class Initialized
+INFO - 2024-09-23 08:26:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-09-23 08:26:01 --> Pagination Class Initialized
+INFO - 2024-09-23 08:26:01 --> Form Validation Class Initialized
+INFO - 2024-09-23 08:26:01 --> Controller Class Initialized
+DEBUG - 2024-09-23 08:26:01 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2024-09-23 08:26:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:26:01 --> Model "Web_settings" initialized
+INFO - 2024-09-23 08:26:01 --> Model "Hrm_model" initialized
+ERROR - 2024-09-23 08:26:01 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:26:01 --> Config Class Initialized
+INFO - 2024-09-23 08:26:01 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:26:01 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:26:01 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:26:01 --> URI Class Initialized
+INFO - 2024-09-23 08:26:01 --> Router Class Initialized
+INFO - 2024-09-23 08:26:01 --> Output Class Initialized
+INFO - 2024-09-23 08:26:01 --> Security Class Initialized
+DEBUG - 2024-09-23 08:26:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:26:01 --> CSRF cookie sent
+INFO - 2024-09-23 08:26:01 --> Input Class Initialized
+INFO - 2024-09-23 08:26:01 --> Language Class Initialized
+ERROR - 2024-09-23 08:26:01 --> 404 Page Not Found: Assets/css
+ERROR - 2024-09-23 08:26:01 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:26:01 --> Config Class Initialized
+INFO - 2024-09-23 08:26:01 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:26:01 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:26:01 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:26:01 --> URI Class Initialized
+INFO - 2024-09-23 08:26:01 --> Router Class Initialized
+INFO - 2024-09-23 08:26:01 --> Output Class Initialized
+INFO - 2024-09-23 08:26:01 --> Security Class Initialized
+DEBUG - 2024-09-23 08:26:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:26:01 --> CSRF cookie sent
+INFO - 2024-09-23 08:26:01 --> Input Class Initialized
+INFO - 2024-09-23 08:26:01 --> Language Class Initialized
+ERROR - 2024-09-23 08:26:01 --> 404 Page Not Found: Assets/datatables
+INFO - 2024-09-23 08:26:01 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\hr/timesheet_list.php
+DEBUG - 2024-09-23 08:26:01 --> Parser class already loaded. Second attempt ignored.
+INFO - 2024-09-23 08:26:01 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/top_menu.php
+INFO - 2024-09-23 08:26:01 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_loggedin_info.php
+INFO - 2024-09-23 08:26:01 --> Model "Products" initialized
+INFO - 2024-09-23 12:26:01 --> Model "reports" initialized
+INFO - 2024-09-23 12:26:01 --> Model "Users" initialized
+INFO - 2024-09-23 12:26:02 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_header.php
+INFO - 2024-09-23 12:26:02 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\include/admin_footer.php
+INFO - 2024-09-23 12:26:02 --> File loaded: D:\wamp\www\lan_new\lancaster_new\application\views\admin_html_template.php
+INFO - 2024-09-23 12:26:02 --> Final output sent to browser
+DEBUG - 2024-09-23 12:26:02 --> Total execution time: 1.7825
+ERROR - 2024-09-23 08:26:02 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:26:02 --> Config Class Initialized
+INFO - 2024-09-23 08:26:02 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:26:02 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:26:02 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:26:02 --> URI Class Initialized
+INFO - 2024-09-23 08:26:02 --> Router Class Initialized
+INFO - 2024-09-23 08:26:02 --> Output Class Initialized
+INFO - 2024-09-23 08:26:02 --> Security Class Initialized
+DEBUG - 2024-09-23 08:26:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:26:02 --> CSRF cookie sent
+INFO - 2024-09-23 08:26:02 --> Input Class Initialized
+INFO - 2024-09-23 08:26:02 --> Language Class Initialized
+ERROR - 2024-09-23 08:26:02 --> 404 Page Not Found: Assets/css
+ERROR - 2024-09-23 08:26:03 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\lan_new\lancaster_new\application\vendor/autoload.php was not found.
+INFO - 2024-09-23 08:26:03 --> Config Class Initialized
+INFO - 2024-09-23 08:26:03 --> Hooks Class Initialized
+DEBUG - 2024-09-23 08:26:03 --> UTF-8 Support Enabled
+INFO - 2024-09-23 08:26:03 --> Utf8 Class Initialized
+INFO - 2024-09-23 08:26:03 --> URI Class Initialized
+INFO - 2024-09-23 08:26:03 --> Router Class Initialized
+INFO - 2024-09-23 08:26:03 --> Output Class Initialized
+INFO - 2024-09-23 08:26:03 --> Security Class Initialized
+DEBUG - 2024-09-23 08:26:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-09-23 08:26:03 --> CSRF cookie sent
+INFO - 2024-09-23 08:26:03 --> Input Class Initialized
+INFO - 2024-09-23 08:26:03 --> Language Class Initialized
+ERROR - 2024-09-23 08:26:03 --> 404 Page Not Found: Assets/datatables
