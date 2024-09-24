@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
   ini_set('display_errors', 1);
      ini_set('display_startup_errors', 1);
-     error_reporting(E_ALL);
+     error_reporting(E_ALL);   
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
@@ -55,7 +55,7 @@ $config["base_url"] = $root;
 |
 */
 $config['index_page'] = '';
-
+date_default_timezone_set('Asia/Kolkata');
 /*
 |--------------------------------------------------------------------------
 | URI PROTOCOL
@@ -467,7 +467,7 @@ $config['global_xss_filtering'] = TRUE;
 // }else{ 
 // 	$config['csrf_protection'] 	= FALSE; 
 // }
-$config['csrf_protection'] 	= TRUE; 
+$config['csrf_protection'] 	= FALSE; 
 $config['csrf_token_name'] = 'csrf_test_name';
 $config['csrf_cookie_name'] = 'csrf_cookie_name';
 $config['csrf_expire'] = 7200;
