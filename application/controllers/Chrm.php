@@ -75,6 +75,7 @@ public function state_summary(){
 }
 public function OverallSummary(){
   $data['setting_detail']         = $this->Web_settings->retrieve_setting_editdata();
+ $data['emp_name']=$this->db->select('*')->from('employee_history')->where('create_by', $this->session->userdata('user_id'))->get()->result_array();
   $content                   = $this->parser->parse('hr/reports/overall_state_summary', $data, true);
   $this->template->full_admin_html_view($content);
 }
@@ -2602,7 +2603,7 @@ $data8= array(
       );
     $this->db->insert('tax_history_employer',$data8);
     
-    echo $this->db->last_query(); die();
+   // echo $this->db->last_query(); die();
 
 //welcome 
 error_log("data in model AFTER INSERT: ");
@@ -3276,6 +3277,8 @@ $data['job_title']='Sales Partner';
         $this->session->set_flashdata('message', display('save_successfully'));
        redirect("Chrm/manage_timesheet");
 }
+
+
 
 
 
